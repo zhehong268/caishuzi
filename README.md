@@ -67,7 +67,7 @@ python caishuzi.py
 你一共猜了 6 次。
 
 代码结构
-
+```python
 caishuzi.py
 │
 ├── import random          # 导入随机数模块
@@ -78,6 +78,7 @@ caishuzi.py
 │   ├── 比较猜测与答案
 │   └── 猜中后输出结果并退出循环
 └── if __name__ == "__main__":  # 程序入口
+```
 可扩展方向
 增加难度选择（例如 1~1000）
 
