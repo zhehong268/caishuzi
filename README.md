@@ -1,5 +1,5 @@
 # caishuzi
-zhygeiderenwu
+**zhy**geiderenwu
 # 猜数字游戏 (Guess Number)
 
 一个用 Python 编写的简单命令行猜数字小游戏。程序会随机生成一个 1~100 之间的整数，玩家通过不断猜测来找到正确答案，猜中后会统计总共猜了多少次。
