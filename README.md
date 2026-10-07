@@ -1,5 +1,5 @@
 # caishuzi
-!(https://avatars.githubusercontent.com/u/332025386?v=4)
+[tomorin]!(https://avatars.githubusercontent.com/u/332025386?v=4)
 **zhy**geiderenwu
 # 猜数字游戏 (Guess Number)
 
